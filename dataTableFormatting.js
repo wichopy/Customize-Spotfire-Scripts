@@ -1,5 +1,8 @@
 /*
-Modified work from this source:http://spotfireplanet.com/style-cross-table-and-data-table-with-javascript/
+Modified work from these two sources:
+http://spotfireplanet.com/style-cross-table-and-data-table-with-javascript/
+http://spotfired.blogspot.ca/2014/12/jquery-accordion.html
+
 This script modifies the default styles for the built in classes.
 
 The below classes are associated with DataTables and CrossTables
@@ -9,7 +12,7 @@ sf-element-table-cell.sfpc-section-content
 sf-element-table-cell.sfpc-total-value
 sf-element-table-cell
 
-To use the script, include it in a text field. It will run when the report loads.
+To use the script, include it in any text field in your report. It will run when the report loads.
 
 If there are any syntax errors, it will cause all dashboard views that are listed after it to be greyed out and the text field to be inaccessable.
 */
